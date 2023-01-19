@@ -1,2 +1,1 @@
 # Planck-Distribution
-oke
